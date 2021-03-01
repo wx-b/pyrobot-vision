@@ -1,5 +1,7 @@
 # PyRobot Vision Module
 
+Python 3.6+ only.
+
 ## Model-based Approach: A Sparse Gaussian Approach to Region-Based 6DoF Object Tracking
 Manuel Stoiber, Martin Pfanne, Klaus H. Strobl, Rudolph Triebel, and Alin Albu-Schäffer  
 Best Paper Award, ACCV 2020: [paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Stoiber_A_Sparse_Gaussian_Approach_to_Region-Based_6DoF_Object_Tracking_ACCV_2020_paper.pdf), [supplementary](https://openaccess.thecvf.com/content/ACCV2020/supplemental/Stoiber_A_Sparse_Gaussian_ACCV_2020_supplemental.zip)
