@@ -22,7 +22,7 @@ A minimal example is provided in `examples/multi_obj_tracking_example.py`. In or
   - stores camera intrinsics
   - return an image if called, and return None if the user wants to stop tracking
 
-An example yaml config can be found at `rbot_two_models_tracking.yaml`; an example image handle object can be found at `rbot_dataset_handle.py`. The example is a replica of the experiments described in the original paper.
+An example yaml config can be found at `rbot_two_models_tracking.yaml`; an example image handle object can be found at `rbot_dataset_handle.py`. The example is a replica of the experiments described in the original paper. All the paths corresponds to the local absolute path of the [RBOT dataset](http://cvmr.info/research/RBOT/).
 
 ### Missing Pieces and WIP
 - Renderer is not rendering properly with the viewer window at this point. This also affects extracting of mask information, and keypoints through UV map.
